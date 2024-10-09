@@ -18,7 +18,7 @@ export default () => <CommandCenter
   ]}
   campingAddressNote={
     <>
-      RV and Heavy Equipment Parking<br />
+      RV and Heavy Equipment Parking.<br />
       <Address address={[
         'unknown',
         'Greer, South Carolina 29050'
@@ -112,7 +112,7 @@ export default () => <CommandCenter
   sundayServices={<section style={{ marginTop: '40px' }}>
     <Title level={4}>Sunday Services</Title>
     <p>
-      A short Sacrament meeting will be held at the campsite on Sunday morning at 7:30 AM. Members should come in clean work clothes. Following the meeting, crews should plan to continue working.
+      A short Sacrament meeting will be held at the campsite on Sunday morning at 7:30 AM. Members should come in clean work clothes. Following the meeting, crews should plan to continue working..
     </p>
   </section>}
    fuelAvailability="severely limited"
