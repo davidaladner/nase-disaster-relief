@@ -137,7 +137,8 @@ campingAddressNote={
   sundayServices={<section style={{ marginTop: '40px' }}>
     <Title level={4}>Sunday Services</Title>
     <p>
-      Here are the addresses of 7:30 am sacrament meetings:
+      Instead of sacrament meeting at the campgrounds, we will have sacrament meetings at the Command Center and other locations. Here are the addresses of the locations. 
+      Choose the one most convenient for your team. All sacrament meetings will be at 7:30 am Sunday morning.
       <li>Command Center: 1301 Boiling Spring Rd., Greer, 29650</li>
       <li>Anderson: 412 Harden Rd. Anderson 29621</li>
       <li>Greenwood: 1417 Cokesbury Rd., Greenwood 29649</li>
